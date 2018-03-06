@@ -4,7 +4,7 @@
 
 ## Intro
 
-> Pequeña herramienta (escopeta de feria) para resolver conflictos en bases de datos estilo "CouchDB"
+> Lee un csv lo inserta en mysql y se ejecuta X tiempo verificando que el csv y los datos en mysql sean siempre los mismos
 
 ## Funciona relativamente bien gracias a:
 
